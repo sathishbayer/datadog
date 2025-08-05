@@ -4,7 +4,7 @@ metadata:
   name: sathishbayer
   description: Sample Managed Control Plane 2
   annotations:
-    datadoghq.com/site: datadoghq.com
+    datadoghq.com/dashboard-url: datadoghq.com
 spec:
   profile:
     displayName: Sathish Kumar Murugesan

@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: sample-service
+  description: |
+    A sample service
+  annotations:
+    datadoghq.com/site: datadoghq.com
